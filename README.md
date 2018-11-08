@@ -5,3 +5,7 @@ Keys:
 CTRL-S: Save
 CTRL-Q: Quit
 CTRL-F: Find string in file (ESC to exit search, arrows to navigate)
+
+TextEd is a text editor which does not use any external library and is 1000 lines of pure C programming. The reference for TextEd was Kilo Text Editor tutorial
+https://viewsourcecode.org/snaptoken/kilo/
+
